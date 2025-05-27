@@ -27,13 +27,13 @@
 
 🛠️ How to Use
 
-    1.Clone the repository or download the script.
+1.Clone the repository or download the script.
   
-    2.Run the script:
-  
-      `python email_phishing_analyzer.py`
-
-    3.Paste the full email content when prompted. Press Enter twice to analyze.
+2.Run the script:
+  ```
+   python email_phishing_analyzer.py
+```
+ 3.Paste the full email content when prompted. Press Enter twice to analyze.
 
 🔍 Example Output
 ```python
@@ -62,13 +62,13 @@
 
 ✨ Customization
 
-     You can update these lists in the script to adapt detection:
+ You can update these lists in the script to adapt detection:
 
-       - SPOOFED_DOMAINS: Add known fake domains.
+- SPOOFED_DOMAINS: Add known fake domains.
 
-       - URGENT_PHRASES: Expand with additional phishing phrases.
+- URGENT_PHRASES: Expand with additional phishing phrases.
 
-       - COMMON_ERRORS: Add frequent spelling/grammar issues.
+- COMMON_ERRORS: Add frequent spelling/grammar issues.
 
 📌 Disclaimer
 
